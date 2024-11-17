@@ -1,0 +1,154 @@
+{
+  "Africa": {
+    "Nigeria": [
+      {
+        "category": "GDP",
+        "value": "510.0 billion USD",
+        "description": "The total GDP of Nigeria",
+        "date": "2024-01-01",
+        "status": "Stable"
+      },
+      {
+        "category": "Unemployment Rate",
+        "value": "10%",
+        "description": "The current unemployment rate",
+        "date": "2024-01-01",
+        "status": "High"
+      },
+      {
+        "category": "Inflation",
+        "value": "15%",
+        "description": "Inflation rate in Nigeria",
+        "date": "2024-01-01",
+        "status": "Moderate"
+      },
+      {
+        "category": "Trade Balance",
+        "value": "50 billion USD",
+        "description": "Difference between imports and exports",
+        "date": "2024-01-01",
+        "status": "Surplus"
+      },
+      {
+        "category": "Public Debt",
+        "value": "100 billion USD",
+        "description": "Total public debt of the country",
+        "date": "2024-01-01",
+        "status": "High"
+      }
+    ],
+    "Kenya": [
+      {
+        "category": "GDP",
+        "value": "95.5 billion USD",
+        "description": "The total GDP of Kenya",
+        "date": "2024-01-01",
+        "status": "Stable"
+      },
+      {
+        "category": "Unemployment Rate",
+        "value": "8%",
+        "description": "The current unemployment rate",
+        "date": "2024-01-01",
+        "status": "Moderate"
+      },
+      {
+        "category": "Inflation",
+        "value": "7%",
+        "description": "Inflation rate in Kenya",
+        "date": "2024-01-01",
+        "status": "Low"
+      },
+      {
+        "category": "Trade Balance",
+        "value": "-5 billion USD",
+        "description": "Difference between imports and exports",
+        "date": "2024-01-01",
+        "status": "Deficit"
+      },
+      {
+        "category": "Public Debt",
+        "value": "50 billion USD",
+        "description": "Total public debt of the country",
+        "date": "2024-01-01",
+        "status": "Moderate"
+      }
+    ]
+  },
+  "America": {
+    "USA": [
+      {
+        "category": "GDP",
+        "value": "22 trillion USD",
+        "description": "The total GDP of USA",
+        "date": "2024-01-01",
+        "status": "Stable"
+      },
+      {
+        "category": "Unemployment Rate",
+        "value": "5%",
+        "description": "The current unemployment rate",
+        "date": "2024-01-01",
+        "status": "Low"
+      },
+      {
+        "category": "Inflation",
+        "value": "3%",
+        "description": "Inflation rate in USA",
+        "date": "2024-01-01",
+        "status": "Moderate"
+      },
+      {
+        "category": "Trade Balance",
+        "value": "-800 billion USD",
+        "description": "Difference between imports and exports",
+        "date": "2024-01-01",
+        "status": "Deficit"
+      },
+      {
+        "category": "Public Debt",
+        "value": "31 trillion USD",
+        "description": "Total public debt of the USA",
+        "date": "2024-01-01",
+        "status": "High"
+      }
+    ],
+    "Canada": [
+      {
+        "category": "GDP",
+        "value": "2 trillion USD",
+        "description": "The total GDP of Canada",
+        "date": "2024-01-01",
+        "status": "Stable"
+      },
+      {
+        "category": "Unemployment Rate",
+        "value": "6%",
+        "description": "The current unemployment rate",
+        "date": "2024-01-01",
+        "status": "Moderate"
+      },
+      {
+        "category": "Inflation",
+        "value": "2%",
+        "description": "Inflation rate in Canada",
+        "date": "2024-01-01",
+        "status": "Low"
+      },
+      {
+        "category": "Trade Balance",
+        "value": "20 billion USD",
+        "description": "Difference between imports and exports",
+        "date": "2024-01-01",
+        "status": "Surplus"
+      },
+      {
+        "category": "Public Debt",
+        "value": "1.5 trillion USD",
+        "description": "Total public debt of the country",
+        "date": "2024-01-01",
+        "status": "Moderate"
+      }
+    ]
+  }
+}
